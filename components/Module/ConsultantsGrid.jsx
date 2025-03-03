@@ -8,7 +8,7 @@ export default function ConsultantsGrid({ consultants = [] }) {
             Meet Our SAP Experts
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Our SAP CO consultants are seasoned professionals dedicated to
+            Our SAP consultants are seasoned professionals dedicated to
             enhancing your financial control and profitability.
           </p>
         </div>

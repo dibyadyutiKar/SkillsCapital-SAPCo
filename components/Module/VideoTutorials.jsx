@@ -10,7 +10,7 @@ export default function VideoTutorials() {
             Learning Resources
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Master SAP CO through our interactive tutorials and video
+            Master SAP through our interactive tutorials and video
             demonstrations
           </p>
         </div>
@@ -27,7 +27,7 @@ export default function VideoTutorials() {
             ></iframe>
           </div>
           <p className="text-center mt-4 text-gray-600 italic">
-            "Effective Cost Management with SAP CO"
+            "Effective Cost Management with SAP "
           </p>
         </div>
 
@@ -39,7 +39,7 @@ export default function VideoTutorials() {
               <h3 className="text-xl font-semibold">Video Tutorials</h3>
             </div>
             <p className="text-gray-600">
-              Step-by-step video guides covering SAP CO configuration and daily
+              Step-by-step video guides covering SAP configuration and daily
               operations
             </p>
           </div>
@@ -50,7 +50,7 @@ export default function VideoTutorials() {
               <h3 className="text-xl font-semibold">Interactive Guides</h3>
             </div>
             <p className="text-gray-600">
-              Hands-on exercises with live SAP CO environment simulations
+              Hands-on exercises with live SAP environment simulations
             </p>
           </div>
 
@@ -60,7 +60,7 @@ export default function VideoTutorials() {
               <h3 className="text-xl font-semibold">Webinars</h3>
             </div>
             <p className="text-gray-600">
-              Live sessions with Q&A from our SAP CO experts
+              Live sessions with Q&A from our SAP experts
             </p>
           </div>
         </div>
